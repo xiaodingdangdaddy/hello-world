@@ -1,2 +1,4 @@
 # hello-world
-just a begaing
+just a begening
+
+let's test the github, and enjoying myself
